@@ -8,13 +8,13 @@ var resultado = 7
 
 // numero 2
 var carName: String = "carro"
-var carCode: Int = 3215642
-var preco: Double = 51.999
-var clienteNome: String = "Jucimara"
-var enderecoCliente = "rua x"
+var carCode: Int = 3215676
+var preco: Double = 69.777
+var clienteNome: String = "Alcione"
+var enderecoCliente = "rua n"
 
 // numero 3
-//Digita anotações em Swift e outros tipos de variáveis ​​recebidas, como strings, inteiros, etc.
+//Digita anotações em Swift e outros tipos de variáveis que foram recebidas. EX.: strings, etc.
 
 // numero 4
 var int: Int = 2
@@ -24,7 +24,7 @@ print (text)
 
 // numero 5
 //safety:
-//É uma linguagem que o incentiva a especificar os tipos de variáveis.
+//É um tipo de linguagem que realiza o incentivo sobre a especificação dos tipos de variáveis.
 
 //inference:
 //O tipo da variável não é especificado, e a linguagem irá deduzir o tipo da variável com base no valor seguido.
