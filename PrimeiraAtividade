@@ -24,5 +24,6 @@ print (text)
 // numero 5
 //safety:
 //É uma linguagem que o incentiva a especificar os tipos de variáveis.
+
 //inference:
 //O tipo da variável não é especificado, e a linguagem irá deduzir o tipo da variável com base no valor seguido.
