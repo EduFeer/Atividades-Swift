@@ -1,7 +1,7 @@
 // questão 1
 
 // "If" é usado para verificações onde você quer tratar os dois fluxos, 
-// o "guard" tem uma legibilidade melhor e é mais indicado para tratar o chamado 'Happy Path', onde apenas  condição verdadeira importa
+// o "guard" tem uma legibilidade melhor e é mais indicado para tratar o chamado 'Happy Path', onde apenas condição verdadeira importa.
 
 // questão 2
 
